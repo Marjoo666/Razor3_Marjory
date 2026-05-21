@@ -17,5 +17,7 @@ namespace RutasPracticaRodri.Data
         public DbSet<RutasPracticaRodri.Models.Empleado> Empleado { get; set; } = default!;
         public DbSet<RutasPracticaRodri.Models.Oficina> Oficina { get; set; } = default!;
         public DbSet<RutasPracticaRodri.Models.Cliente> Cliente { get; set; } = default!;
+        public DbSet<RutasPracticaRodri.Models.EmpleadoContable> EmpleadoContable { get; set; }
+        public DbSet<RutasPracticaRodri.Models.EmpleadoDeveloper> EmpleadoDeveloper { get; set; }
     }
 }

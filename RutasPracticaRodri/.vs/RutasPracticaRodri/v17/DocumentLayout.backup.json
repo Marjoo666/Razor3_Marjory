@@ -1,38 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\",
+  "WorkspaceRootPath": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\pages\\empleados\\oficinapractica.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\pages\\empleados\\oficinapractica.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\pages\\empleados\\clientepractica.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\pages\\empleados\\clientepractica.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\Migrations\\20260521002037_AgregarOficinaYCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RutasPracticaRodri\\Migrations\\20260521002037_AgregarOficinaYCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\pages\\empleados\\clientepractica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\pages\\empleados\\clientepractica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\data\\rutaspracticarodricontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\data\\rutaspracticarodricontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\pages\\empleados\\oficinapractica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\pages\\empleados\\oficinapractica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\pages\\empleados\\oficinapractica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\models\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\pages\\empleados\\agregarempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\pages\\empleados\\agregarempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\pages\\empleados\\cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\pages\\empleados\\cliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\pages\\empleados\\clientepractica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\pages\\empleados\\clientepractica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\pages\\empleados\\crearempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\pages\\empleados\\crearempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\pages\\empleados\\empleadocontable.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\pages\\empleados\\empleadocontable.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\pages\\empleados\\empleadodeveloper.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\pages\\empleados\\empleadodeveloper.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\pages\\empleados\\empleadodeveloper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\pages\\empleados\\empleadodeveloper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\pages\\empleados\\empleadocontable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\pages\\empleados\\empleadocontable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Migrations\\20260521165633_AgregarTiposEmpleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RutasPracticaRodri\\Migrations\\20260521165633_AgregarTiposEmpleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\models\\empleadodeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\models\\empleadodeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\models\\empleadocontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\models\\empleadocontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\data\\rutaspracticarodricontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\data\\rutaspracticarodricontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\pages\\empleados\\oficinapractica.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\pages\\empleados\\oficinapractica.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\pages\\empleados\\clientepractica.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\pages\\empleados\\clientepractica.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\models\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\models\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|c:\\users\\rodri\\source\\repos\\rutaspracticarodri\\rutaspracticarodri\\rutaspracticarodri\\migrations\\20260521002037_agregaroficinaycliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D985846-24B8-4CDC-9476-9823E699553F}|RutasPracticaRodri\\RutasPracticaRodri.csproj|solutionrelative:rutaspracticarodri\\migrations\\20260521002037_agregaroficinaycliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,76 +98,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20260521002037_AgregarOficinaYCliente.cs",
-              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\Migrations\\20260521002037_AgregarOficinaYCliente.cs",
-              "RelativeDocumentMoniker": "RutasPracticaRodri\\Migrations\\20260521002037_AgregarOficinaYCliente.cs",
-              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\Migrations\\20260521002037_AgregarOficinaYCliente.cs",
-              "RelativeToolTip": "RutasPracticaRodri\\Migrations\\20260521002037_AgregarOficinaYCliente.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwBAAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T00:20:40.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClientePractica.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\ClientePractica.cshtml.cs",
-              "RelativeDocumentMoniker": "RutasPracticaRodri\\Pages\\Empleados\\ClientePractica.cshtml.cs",
-              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\ClientePractica.cshtml.cs",
-              "RelativeToolTip": "RutasPracticaRodri\\Pages\\Empleados\\ClientePractica.cshtml.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAiwCgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T00:17:11.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ClientePractica.cshtml",
-              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\ClientePractica.cshtml",
-              "RelativeDocumentMoniker": "RutasPracticaRodri\\Pages\\Empleados\\ClientePractica.cshtml",
-              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\ClientePractica.cshtml",
-              "RelativeToolTip": "RutasPracticaRodri\\Pages\\Empleados\\ClientePractica.cshtml",
+              "Title": "Cliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\Cliente.cshtml",
+              "RelativeDocumentMoniker": "RutasPracticaRodri\\Pages\\Empleados\\Cliente.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\Cliente.cshtml",
+              "RelativeToolTip": "RutasPracticaRodri\\Pages\\Empleados\\Cliente.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T17:05:43.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgregarEmpleados.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\AgregarEmpleados.cshtml",
+              "RelativeDocumentMoniker": "RutasPracticaRodri\\Pages\\Empleados\\AgregarEmpleados.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\AgregarEmpleados.cshtml",
+              "RelativeToolTip": "RutasPracticaRodri\\Pages\\Empleados\\AgregarEmpleados.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-21T00:17:10.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OficinaPractica.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\OficinaPractica.cshtml.cs",
-              "RelativeDocumentMoniker": "RutasPracticaRodri\\Pages\\Empleados\\OficinaPractica.cshtml.cs",
-              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\OficinaPractica.cshtml.cs",
-              "RelativeToolTip": "RutasPracticaRodri\\Pages\\Empleados\\OficinaPractica.cshtml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA5wCgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T00:12:56.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RutasPracticaRodriContext.cs",
-              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\Data\\RutasPracticaRodriContext.cs",
-              "RelativeDocumentMoniker": "RutasPracticaRodri\\Data\\RutasPracticaRodriContext.cs",
-              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\Data\\RutasPracticaRodriContext.cs",
-              "RelativeToolTip": "RutasPracticaRodri\\Data\\RutasPracticaRodriContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T00:12:54.494Z",
+              "WhenOpened": "2026-05-21T17:05:40.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "CrearEmpleados.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\CrearEmpleados.cshtml",
+              "RelativeDocumentMoniker": "RutasPracticaRodri\\Pages\\Empleados\\CrearEmpleados.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\CrearEmpleados.cshtml",
+              "RelativeToolTip": "RutasPracticaRodri\\Pages\\Empleados\\CrearEmpleados.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T17:05:20.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "OficinaPractica.cshtml",
-              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\OficinaPractica.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\OficinaPractica.cshtml",
               "RelativeDocumentMoniker": "RutasPracticaRodri\\Pages\\Empleados\\OficinaPractica.cshtml",
-              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\OficinaPractica.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\OficinaPractica.cshtml",
               "RelativeToolTip": "RutasPracticaRodri\\Pages\\Empleados\\OficinaPractica.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -132,29 +150,194 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RutasPracticaRodri\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RutasPracticaRodri\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwFAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T16:07:13.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "RutasPracticaRodri\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\Models\\Cliente.cs",
-              "RelativeToolTip": "RutasPracticaRodri\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EmpleadoDeveloper.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\EmpleadoDeveloper.cshtml.cs",
+              "RelativeDocumentMoniker": "RutasPracticaRodri\\Pages\\Empleados\\EmpleadoDeveloper.cshtml.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\EmpleadoDeveloper.cshtml.cs",
+              "RelativeToolTip": "RutasPracticaRodri\\Pages\\Empleados\\EmpleadoDeveloper.cshtml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T00:04:35.898Z",
+              "WhenOpened": "2026-05-21T17:04:03.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmpleadoDeveloper.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\EmpleadoDeveloper.cshtml",
+              "RelativeDocumentMoniker": "RutasPracticaRodri\\Pages\\Empleados\\EmpleadoDeveloper.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\EmpleadoDeveloper.cshtml",
+              "RelativeToolTip": "RutasPracticaRodri\\Pages\\Empleados\\EmpleadoDeveloper.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T17:04:01.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "EmpleadoContable.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\EmpleadoContable.cshtml.cs",
+              "RelativeDocumentMoniker": "RutasPracticaRodri\\Pages\\Empleados\\EmpleadoContable.cshtml.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\EmpleadoContable.cshtml.cs",
+              "RelativeToolTip": "RutasPracticaRodri\\Pages\\Empleados\\EmpleadoContable.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T17:02:00.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientePractica.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\ClientePractica.cshtml",
+              "RelativeDocumentMoniker": "RutasPracticaRodri\\Pages\\Empleados\\ClientePractica.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\ClientePractica.cshtml",
+              "RelativeToolTip": "RutasPracticaRodri\\Pages\\Empleados\\ClientePractica.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T00:17:10.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmpleadoContable.cshtml",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\EmpleadoContable.cshtml",
+              "RelativeDocumentMoniker": "RutasPracticaRodri\\Pages\\Empleados\\EmpleadoContable.cshtml",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\EmpleadoContable.cshtml",
+              "RelativeToolTip": "RutasPracticaRodri\\Pages\\Empleados\\EmpleadoContable.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T17:01:57.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260521165633_AgregarTiposEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Migrations\\20260521165633_AgregarTiposEmpleados.cs",
+              "RelativeDocumentMoniker": "RutasPracticaRodri\\Migrations\\20260521165633_AgregarTiposEmpleados.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Migrations\\20260521165633_AgregarTiposEmpleados.cs",
+              "RelativeToolTip": "RutasPracticaRodri\\Migrations\\20260521165633_AgregarTiposEmpleados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T16:56:34.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmpleadoDeveloper.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Models\\EmpleadoDeveloper.cs",
+              "RelativeDocumentMoniker": "RutasPracticaRodri\\Models\\EmpleadoDeveloper.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Models\\EmpleadoDeveloper.cs",
+              "RelativeToolTip": "RutasPracticaRodri\\Models\\EmpleadoDeveloper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T16:45:34.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmpleadoContable.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Models\\EmpleadoContable.cs",
+              "RelativeDocumentMoniker": "RutasPracticaRodri\\Models\\EmpleadoContable.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Models\\EmpleadoContable.cs",
+              "RelativeToolTip": "RutasPracticaRodri\\Models\\EmpleadoContable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T16:44:20.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientePractica.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\ClientePractica.cshtml.cs",
+              "RelativeDocumentMoniker": "RutasPracticaRodri\\Pages\\Empleados\\ClientePractica.cshtml.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\ClientePractica.cshtml.cs",
+              "RelativeToolTip": "RutasPracticaRodri\\Pages\\Empleados\\ClientePractica.cshtml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T00:17:11.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RutasPracticaRodriContext.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Data\\RutasPracticaRodriContext.cs",
+              "RelativeDocumentMoniker": "RutasPracticaRodri\\Data\\RutasPracticaRodriContext.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Data\\RutasPracticaRodriContext.cs",
+              "RelativeToolTip": "RutasPracticaRodri\\Data\\RutasPracticaRodriContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T00:12:54.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260521002037_AgregarOficinaYCliente.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Migrations\\20260521002037_AgregarOficinaYCliente.cs",
+              "RelativeDocumentMoniker": "RutasPracticaRodri\\Migrations\\20260521002037_AgregarOficinaYCliente.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Migrations\\20260521002037_AgregarOficinaYCliente.cs",
+              "RelativeToolTip": "RutasPracticaRodri\\Migrations\\20260521002037_AgregarOficinaYCliente.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T00:20:40.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OficinaPractica.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\OficinaPractica.cshtml.cs",
+              "RelativeDocumentMoniker": "RutasPracticaRodri\\Pages\\Empleados\\OficinaPractica.cshtml.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Pages\\Empleados\\OficinaPractica.cshtml.cs",
+              "RelativeToolTip": "RutasPracticaRodri\\Pages\\Empleados\\OficinaPractica.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T00:12:56.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "RutasPracticaRodri\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Models\\Cliente.cs",
+              "RelativeToolTip": "RutasPracticaRodri\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T00:04:35.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Oficina.cs",
-              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\Models\\Oficina.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Models\\Oficina.cs",
               "RelativeDocumentMoniker": "RutasPracticaRodri\\Models\\Oficina.cs",
-              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\Models\\Oficina.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\Models\\Oficina.cs",
               "RelativeToolTip": "RutasPracticaRodri\\Models\\Oficina.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T00:02:58.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T00:02:58.933Z"
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri.csproj": {}
+    "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri.csproj": {
+    "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri.csproj",
+        "projectUniqueName": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri.csproj",
         "projectName": "RutasPracticaRodri",
-        "projectPath": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri.csproj",
+        "projectPath": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri.csproj",
         "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\obj\\",
+        "outputPath": "C:\\Users\\rodri\\source\\repos\\RutasPracticaRodri\\RutasPracticaRodri\\RutasPracticaRodri\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

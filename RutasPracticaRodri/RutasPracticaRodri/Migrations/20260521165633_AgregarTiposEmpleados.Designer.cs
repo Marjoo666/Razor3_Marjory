@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using RutasPracticaRodri.Data;
 
@@ -10,9 +11,11 @@ using RutasPracticaRodri.Data;
 namespace RutasPracticaRodri.Migrations
 {
     [DbContext(typeof(RutasPracticaRodriContext))]
-    partial class RutasPracticaRodriContextModelSnapshot : ModelSnapshot
+    [Migration("20260521165633_AgregarTiposEmpleados")]
+    partial class AgregarTiposEmpleados
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
