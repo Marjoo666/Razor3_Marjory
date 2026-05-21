@@ -1,0 +1,93 @@
+﻿@page
+@model RutasPracticaRodri.Pages.OficinaModel
+@{
+    ViewData["Title"] = "Oficinas";
+    var mensajeBienvenida = "Hola, este es mi sitio en Razor";
+    var ultimoVisitante = "Santi";
+
+    string[] visitantes = { "Santi", "Mica", "Marcos", "Ivan" };
+
+    
+    var valor = 1;
+}
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a>Inicio</a></li>
+        <li class="breadcrumb-item active"
+            aria-current="page">Oficinas</li>
+    </ol>
+</nav>
+
+<div class="text-center">
+    <div class="alert alert-primary" role="alert">
+        <h1>Oficinas de la empresa @Model.Id</h1>
+    </div>
+
+    <p>@mensajeBienvenida</p>
+
+    <p>La fecha y hora actual es: <strong>@DateTime.Now</strong></p>
+
+    @{
+        var miPersona = new Persona("Santiago", 26, "RedUsers");
+    }
+    <p>El nombre de la persona es: <strong>@miPersona.name</strong></p>
+
+    <p>Contacto de soporte: <strong>@@gmail.com</strong></p>
+
+    <p>Escríbenos a: <a href="mailto:Santi@gmail.com">Santi@gmail.com</a></p>
+
+    <hr />
+
+    @if (ultimoVisitante == "Santi")
+    {
+        <p>El último visitante fue Santi.</p>
+    }
+    else if (ultimoVisitante == "Marcos")
+    {
+        <p>El último visitante fue Marcos.</p>
+    }
+    else
+    {
+        <p>¡Hola, eres el primer visitante!</p>
+    }
+
+    <hr />
+
+    <h3>Lista de visitantes (usando foreach):</h3>
+    <ul>
+        @foreach (var visitante in visitantes)
+        {
+            <li>@visitante</li>
+        }
+    </ul>
+
+    <hr />
+
+    <h3>Lista de visitantes (usando while):</h3>
+    @{
+        string[] visitants = { "Santi", "Mica", "Marcos", "Ivan" };
+        var x = 0;
+    }
+
+    @while (x < visitants.Length)
+    {
+        <p>Visitante: @visitants[x]</p>
+        x++;
+    }
+
+    <hr />
+
+    <h3>Evaluación con Switch:</h3>
+    @switch (valor)
+    {
+        case 1:
+            <p>El valor de la variable es 1</p>
+            break;
+        case 2:
+            <p>El valor de la variable es 2</p>
+            break;
+        case 3:
+            <p>El valor de la variable es 3</p>
+            break;
+    }
+</div>

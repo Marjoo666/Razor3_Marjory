@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|c:\\users\\rodri\\source\\repos\\1guia5_19795362\\1guia5_19795362\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|solutionrelative:1guia5_19795362\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1guia5_19795362\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|solutionrelative:1guia5_19795362\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1guia5_19795362\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|solutionrelative:1guia5_19795362\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1guia5_19795362\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|solutionrelative:1guia5_19795362\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1guia5_19795362\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|solutionrelative:1guia5_19795362\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1guia5_19795362\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|solutionrelative:1guia5_19795362\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1guia5_19795362\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|solutionrelative:1guia5_19795362\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1guia5_19795362\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|solutionrelative:1guia5_19795362\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1guia5_19795362\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BCF617-35A4-417F-B989-E1BC1B09AFED}|1Guia5_19795362\\1Guia5_19795362.csproj|solutionrelative:1guia5_19795362\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\Form1.cs",
+              "RelativeDocumentMoniker": "1Guia5_19795362\\Form1.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\Form1.cs [Design]",
+              "RelativeToolTip": "1Guia5_19795362\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T15:11:46.346Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\Form2.cs",
+              "RelativeDocumentMoniker": "1Guia5_19795362\\Form2.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "1Guia5_19795362\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T15:29:36.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\Form3.cs",
+              "RelativeDocumentMoniker": "1Guia5_19795362\\Form3.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "1Guia5_19795362\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T15:32:57.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\Form4.cs",
+              "RelativeDocumentMoniker": "1Guia5_19795362\\Form4.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "1Guia5_19795362\\Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T22:24:41.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\Form1.cs",
+              "RelativeDocumentMoniker": "1Guia5_19795362\\Form1.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\Form1.cs",
+              "RelativeToolTip": "1Guia5_19795362\\Form1.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T15:41:19.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\Form2.cs",
+              "RelativeDocumentMoniker": "1Guia5_19795362\\Form2.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\Form2.cs",
+              "RelativeToolTip": "1Guia5_19795362\\Form2.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswG0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T15:41:00.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\Form3.cs",
+              "RelativeDocumentMoniker": "1Guia5_19795362\\Form3.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\Form3.cs",
+              "RelativeToolTip": "1Guia5_19795362\\Form3.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAADwv7oAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T15:37:53.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\Form4.cs",
+              "RelativeDocumentMoniker": "1Guia5_19795362\\Form4.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\Form4.cs",
+              "RelativeToolTip": "1Guia5_19795362\\Form4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T22:34:54.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "conexion.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\conexion.cs",
+              "RelativeDocumentMoniker": "1Guia5_19795362\\conexion.cs",
+              "ToolTip": "C:\\Users\\rodri\\source\\repos\\1Guia5_19795362\\1Guia5_19795362\\conexion.cs",
+              "RelativeToolTip": "1Guia5_19795362\\conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T17:05:57.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

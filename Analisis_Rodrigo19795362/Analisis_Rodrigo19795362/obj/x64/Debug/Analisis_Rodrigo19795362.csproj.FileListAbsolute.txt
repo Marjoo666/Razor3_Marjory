@@ -1,0 +1,13 @@
+C:\Users\rodri\source\repos\Analisis_Rodrigo19795362\Analisis_Rodrigo19795362\bin\x64\Debug\Analisis_Rodrigo19795362.exe.config
+C:\Users\rodri\source\repos\Analisis_Rodrigo19795362\Analisis_Rodrigo19795362\bin\x64\Debug\Analisis_Rodrigo19795362.exe
+C:\Users\rodri\source\repos\Analisis_Rodrigo19795362\Analisis_Rodrigo19795362\bin\x64\Debug\Analisis_Rodrigo19795362.pdb
+C:\Users\rodri\source\repos\Analisis_Rodrigo19795362\Analisis_Rodrigo19795362\obj\x64\Debug\Analisis_Rodrigo19795362.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Analisis_Rodrigo19795362\Analisis_Rodrigo19795362\obj\x64\Debug\Analisis_Rodrigo19795362.Form1.resources
+C:\Users\rodri\source\repos\Analisis_Rodrigo19795362\Analisis_Rodrigo19795362\obj\x64\Debug\Analisis_Rodrigo19795362.Form2.resources
+C:\Users\rodri\source\repos\Analisis_Rodrigo19795362\Analisis_Rodrigo19795362\obj\x64\Debug\Analisis_Rodrigo19795362.Properties.Resources.resources
+C:\Users\rodri\source\repos\Analisis_Rodrigo19795362\Analisis_Rodrigo19795362\obj\x64\Debug\Analisis_Rodrigo19795362.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\Analisis_Rodrigo19795362\Analisis_Rodrigo19795362\obj\x64\Debug\Analisis_Rodrigo19795362.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Analisis_Rodrigo19795362\Analisis_Rodrigo19795362\obj\x64\Debug\Analisis_Rodrigo19795362.exe
+C:\Users\rodri\source\repos\Analisis_Rodrigo19795362\Analisis_Rodrigo19795362\obj\x64\Debug\Analisis_Rodrigo19795362.pdb
+C:\Users\rodri\source\repos\Analisis_Rodrigo19795362\Analisis_Rodrigo19795362\obj\x64\Debug\Analisis_Rodrigo19795362.exe.config
+C:\Users\rodri\source\repos\Analisis_Rodrigo19795362\Analisis_Rodrigo19795362\obj\x64\Debug\Analisis_Rodrigo19795362.Form3.resources

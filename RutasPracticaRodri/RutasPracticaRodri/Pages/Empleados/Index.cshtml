@@ -1,0 +1,30 @@
+﻿@page
+@model RutasPracticaRodri.Pages.IndexModel
+@{
+    ViewData["Title"] = "Inicio";
+}
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a>Inicio</a></li>
+        <li class="breadcrumb-item active"
+            aria-current="page">Empleados</li>
+    </ol>
+</nav>
+
+<h1>En esta sección puede ver los empleados del sistema</h1>
+
+@Model.Nombre
+
+<br>
+
+<div class="text-center">
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h3 class="card-title">Empleados de contabilidad:</h3>
+        <a class="btn btn-light" asp-page="/Empleados/Contabilidad">
+            Contabilidad
+            </a>
+        </div>
+    </div>
+</div>

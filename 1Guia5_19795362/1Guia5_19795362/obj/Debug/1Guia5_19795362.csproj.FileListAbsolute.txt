@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\1Guia5_19795362\1Guia5_19795362\bin\Debug\1Guia5_19795362.exe.config
+C:\Users\rodri\source\repos\1Guia5_19795362\1Guia5_19795362\bin\Debug\1Guia5_19795362.exe
+C:\Users\rodri\source\repos\1Guia5_19795362\1Guia5_19795362\bin\Debug\1Guia5_19795362.pdb
+C:\Users\rodri\source\repos\1Guia5_19795362\1Guia5_19795362\obj\Debug\1Guia5_19795362.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\1Guia5_19795362\1Guia5_19795362\obj\Debug\_1Guia5_19795362.Form1.resources
+C:\Users\rodri\source\repos\1Guia5_19795362\1Guia5_19795362\obj\Debug\_1Guia5_19795362.Form2.resources
+C:\Users\rodri\source\repos\1Guia5_19795362\1Guia5_19795362\obj\Debug\_1Guia5_19795362.Form3.resources
+C:\Users\rodri\source\repos\1Guia5_19795362\1Guia5_19795362\obj\Debug\_1Guia5_19795362.Properties.Resources.resources
+C:\Users\rodri\source\repos\1Guia5_19795362\1Guia5_19795362\obj\Debug\1Guia5_19795362.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\1Guia5_19795362\1Guia5_19795362\obj\Debug\1Guia5_19795362.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\1Guia5_19795362\1Guia5_19795362\obj\Debug\1Guia5_19795362.exe
+C:\Users\rodri\source\repos\1Guia5_19795362\1Guia5_19795362\obj\Debug\1Guia5_19795362.pdb
+C:\Users\rodri\source\repos\1Guia5_19795362\1Guia5_19795362\obj\Debug\1Guia5_19795362.exe.config
+C:\Users\rodri\source\repos\1Guia5_19795362\1Guia5_19795362\obj\Debug\_1Guia5_19795362.Form4.resources
