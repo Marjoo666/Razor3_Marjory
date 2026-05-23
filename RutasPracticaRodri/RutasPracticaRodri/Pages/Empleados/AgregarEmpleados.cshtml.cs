@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using RutasPracticaRodri.Models;
+using Razorr3_10266464.Models;
 
-namespace RutasPracticaRodri.Pages.Empleados
+namespace Razorr3_10266464.Pages.Empleados
 {
     public class AgregarEmpleadosModel : PageModel
     {

@@ -1,12 +1,12 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using RutasPracticaRodri.Data;
+using Razorr3_10266464.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 
 builder.Services.AddRazorPages();
-builder.Services.AddDbContext<RutasPracticaRodriContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("RutasPracticaRodriContext") ?? throw new InvalidOperationException("Connection string 'RutasPracticaRodriContext' not found.")));
+builder.Services.AddDbContext<Razorr3_10266464Context>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Razorr3_10266464Context") ?? throw new InvalidOperationException("Connection string 'Razorr3_10266464Context' not found.")));
 
 var app = builder.Build();
 

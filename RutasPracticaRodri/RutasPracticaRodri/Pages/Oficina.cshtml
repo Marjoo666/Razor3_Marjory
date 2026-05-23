@@ -1,5 +1,5 @@
-ï»¿@page
-@model RutasPracticaRodri.Pages.OficinaModel
+@page
+@model Razorr3_10266464.Pages.OficinaModel
 @{
     ViewData["Title"] = "Oficinas";
     var mensajeBienvenida = "Hola, este es mi sitio en Razor";
@@ -34,21 +34,21 @@
 
     <p>Contacto de soporte: <strong>@@gmail.com</strong></p>
 
-    <p>EscrÃ­benos a: <a href="mailto:Santi@gmail.com">Santi@gmail.com</a></p>
+    <p>Escríbenos a: <a href="mailto:Santi@gmail.com">Santi@gmail.com</a></p>
 
     <hr />
 
     @if (ultimoVisitante == "Santi")
     {
-        <p>El Ãºltimo visitante fue Santi.</p>
+        <p>El último visitante fue Santi.</p>
     }
     else if (ultimoVisitante == "Marcos")
     {
-        <p>El Ãºltimo visitante fue Marcos.</p>
+        <p>El último visitante fue Marcos.</p>
     }
     else
     {
-        <p>Â¡Hola, eres el primer visitante!</p>
+        <p>¡Hola, eres el primer visitante!</p>
     }
 
     <hr />
@@ -77,7 +77,7 @@
 
     <hr />
 
-    <h3>EvaluaciÃ³n con Switch:</h3>
+    <h3>Evaluación con Switch:</h3>
     @switch (valor)
     {
         case 1:

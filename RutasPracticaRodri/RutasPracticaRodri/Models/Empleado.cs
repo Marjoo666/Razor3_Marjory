@@ -1,4 +1,4 @@
-﻿namespace RutasPracticaRodri.Models
+namespace Razorr3_10266464.Models
 {
     public class Empleado
     {

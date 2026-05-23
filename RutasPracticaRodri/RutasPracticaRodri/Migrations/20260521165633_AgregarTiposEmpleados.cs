@@ -1,8 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
+using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace RutasPracticaRodri.Migrations
+namespace Razorr3_10266464.Pages.Empleados
 {
     /// <inheritdoc />
     public partial class AgregarTiposEmpleados : Migration

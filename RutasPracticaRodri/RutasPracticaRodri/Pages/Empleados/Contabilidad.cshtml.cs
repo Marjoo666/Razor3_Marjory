@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using RutasPracticaRodri;
+using Razorr3_10266464;
 
-namespace RutasPracticaRodri.Pages
+namespace Razorr3_10266464.Pages
 {
     public class EmpleadosModel : PageModel
     {

@@ -1,20 +1,20 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using RutasPracticaRodri.Data;
-using RutasPracticaRodri.Models;
+using Razorr3_10266464.Data;
+using Razorr3_10266464.Models;
 
-namespace RutasPracticaRodri.Pages.Empleados
+namespace Razorr3_10266464.Pages.Empleados
 {
     public class OficinaPracticaModel : PageModel
     {
-        private readonly RutasPracticaRodri.Data.RutasPracticaRodriContext _context;
+        private readonly Razorr3_10266464.Data.Razorr3_10266464Context _context;
 
-        public OficinaPracticaModel(RutasPracticaRodri.Data.RutasPracticaRodriContext context)
+        public OficinaPracticaModel(Razorr3_10266464.Data.Razorr3_10266464Context context)
         {
             _context = context;
         }

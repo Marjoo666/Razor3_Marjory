@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 using System.ComponentModel.DataAnnotations;
-namespace RutasPracticaRodri.Models
+namespace Razorr3_10266464.Pages.Empleados
 {
     public class EmpleadoDeveloper : Empleado
     {

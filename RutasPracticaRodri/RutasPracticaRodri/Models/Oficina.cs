@@ -1,6 +1,5 @@
-﻿using System;
-namespace RutasPracticaRodri.Models
-{
+using System;
+namespace Razorr3_10266464.Pages.Empleados
     public class Oficina
     {
         public int Id { get; set; }

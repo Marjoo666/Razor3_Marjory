@@ -1,5 +1,5 @@
-﻿
-namespace RutasPracticaRodri.Models
+
+namespace Razorr3_10266464.Pages.Empleados
 {
     public class Cliente
     {

@@ -1,7 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace RutasPracticaRodri.Pages
+namespace Razorr3_10266464.Pages
 {
     public class PrivacyModel : PageModel
     {
